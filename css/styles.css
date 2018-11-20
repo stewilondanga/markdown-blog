@@ -1,4 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Space+Mono");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  font-weight: 400;
+  list-style-type: none;
+  font-style: normal;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -20,17 +30,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  position: relative;
-  font-weight: 400;
-  list-style-type: none;
-  font-style: normal;
 }
 
 body {
