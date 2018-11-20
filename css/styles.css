@@ -74,10 +74,10 @@ h3 {
 }
 
 img {
-  display: none;
+  display:run-in;
 }
 
-.comment {
+/*.comment {
   color: #4d4d4c;
 }
 
