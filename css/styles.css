@@ -50,13 +50,13 @@ em {
   color: #dd925f;
 }
 
-/*h2 {
+h2 {
   color: #ae94c0;
   margin: 10px 0;
   text-transform: uppercase;
 }
 
-blockquote,
+/*blockquote,
 ul,
 ol {
   border-left: 1px solid #4d4d4c;
