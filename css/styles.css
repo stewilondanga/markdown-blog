@@ -63,12 +63,12 @@ blockquote, ul, ol {
   color: #efc371;
 }
 
-/*blockquote {
+blockquote {
   margin: 10px 0 10px 40px;
   font-style: italic;
 }
 
-h3 {
+/*h3 {
   color: #ae94c0;
   margin: 10px 0;
 }
